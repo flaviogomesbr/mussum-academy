@@ -5,6 +5,7 @@ import { join } from 'path';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { StudentsModule } from './modules/students/students.module';
+import { BasesModule } from './modules/bases/bases.module';
 
 @Module({
   imports: [
@@ -15,6 +16,7 @@ import { StudentsModule } from './modules/students/students.module';
       sortSchema: true,
     }),
     StudentsModule,
+    BasesModule,
   ],
   controllers: [AppController],
   providers: [AppService],

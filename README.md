@@ -22,6 +22,11 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Tutorial - Axios to consume an API
+
+[Curso de NestJS, GraphQL/NestJS-query e TypeORM com postgres.](https://www.youtube.com/playlist?list=PLDqnSpzNKDvmBC6ZuosxtGTKwKMld8pvC) is a simple tutorial about fast CRUDs with paging, sorting and filtering via the Nestjs-query lib.
+
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
