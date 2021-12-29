@@ -24,7 +24,7 @@
 
 ## Tutorial - Axios to consume an API
 
-[Curso de NestJS, GraphQL/NestJS-query e TypeORM com postgres.](https://www.youtube.com/playlist?list=PLDqnSpzNKDvmBC6ZuosxtGTKwKMld8pvC) is a simple tutorial about fast CRUDs with paging, sorting and filtering via the Nestjs-query lib.
+[Curso de NestJS, GraphQL/NestJS-query e TypeORM com postgres](https://www.youtube.com/playlist?list=PLDqnSpzNKDvmBC6ZuosxtGTKwKMld8pvC) is a simple tutorial about fast CRUDs with paging, sorting and filtering via the Nestjs-query lib.
 
 
 ## Description
